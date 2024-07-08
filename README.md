@@ -10,7 +10,7 @@ But you can not just give LLM all of your data at once - at the momment, because
 
 In addition, the LLMs generation is often plagued by a problem called `hallucination`, where the models generate sentences that sound fluent and logical, but are in fact incorrect. The RAG technique was born as a method to solve this problem.
 
-<!-- ## What are the benefits of RAG?
+## What are the benefits of RAG?
 
 ### Cost-effective implementation
 
@@ -22,7 +22,7 @@ RAG allows developers to provide the latest research, statistics, or news to the
 
 ### More developer control
 
-With RAG, developers can test and improve the chat applications more efficiently. Developers can control and change the LLM's information sources, also restrict sensitive information retrievaland ensure the LLM generates appropriate responses. -->
+With RAG, developers can test and improve the chat applications more efficiently. Developers can control and change the LLM's information sources, also restrict sensitive information retrievaland ensure the LLM generates appropriate responses.
 
 ## How to perform RAG
 
@@ -125,8 +125,16 @@ How it Works:
 ![alt text](images/self_reflection.png)
 
 # REF
-https://aws.amazon.com/vi/what-is/retrieval-augmented-generation/
-https://docs.llamaindex.ai/en/stable/optimizing/advanced_retrieval/advanced_retrieval/#main-advanced-retrieval-strategies
-https://www.youtube.com/watch?v=MXPYbjjyHXc
-https://slides.com/seldo/rag-and-agents
-https://docs.llamaindex.ai/en/stable/examples/agent/multi_document_agents/
+
+- https://aws.amazon.com/vi/what-is/retrieval-augmented-generation/
+
+- https://docs.llamaindex.ai/en/stable/optimizing/advanced_retrieval/advanced_retrieval/#main-advanced-retrieval-strategies
+
+- https://docs.llamaindex.ai/en/stable/examples/agent/multi_document_agents/
+
+- https://www.youtube.com/watch?v=MXPYbjjyHXc
+
+- https://slides.com/seldo/rag-and-agents
+
+
+
